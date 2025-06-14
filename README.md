@@ -1,2 +1,4 @@
 # PROYECTO FINAL AVANCE
 Para este proyecto decidí hacer un sistema de gestión de clientes especifico para las personas que trabajan por catalogo. Aparte de poder gestionar los clientes, con métodos como cambiar saldo, agregar un nuevo cliente, mostrar la lista de clientes, también se puede hacer lo mismo con los catálogos, la diferencia es que con estos tenemos la capacidad de modificar las fechas de cierre (momento en el que se debe pasar el pedido), y al verlos tenemos la capacidad de verificar en que momento debemos pasar el pedido. La iniciativa fue buscando que las personas que trabajan por catalogo tengan una opción que les permita recordar aquello que tienen pendiente ya sea pasar un pedido o cobrarle a una persona.
+
+![](https://github.com/Nicolle007/PROYECTOFINAL_AVANCE/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
